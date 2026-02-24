@@ -1,86 +1,103 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Kanishka K</h1>
+<h3 align="center">💻 Aspiring Software Developer | Full Stack Enthusiast</h3>
 
-# 👋 Hi, I'm Kanishka K 💖  
-🎓 *Information Technology Undergraduate (2023–2027)*  
-💻 *Aspiring Full Stack Developer | Java • React • Spring Boot*
-
-<p>
-  <a href="mailto:kanishkakrishnan46@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kanishka-krishnan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p align="center">
+  <b>B.Tech Information Technology Student</b><br>
+  Sri Krishna College of Technology, Coimbatore
 </p>
 
-</div>
+---
+
+## 🚀 About Me
+
+🎓 Motivated Information Technology undergraduate seeking **Software Development / Full Stack roles**  
+💡 Strong foundation in Java, Data Structures, and Web Development  
+🧠 Passionate about building scalable and user-focused applications  
+⚡ Quick learner with strong problem-solving skills  
 
 ---
 
-## ✨ About Me
-🌸 Passionate IT student who loves building **real-world, user-centric applications**  
+## 🛠️ Technical Skills
 
-- 🎯 B.Tech IT @ **Sri Krishna College of Technology, Coimbatore**
-- 📊 CGPA: **8.12**
-- 💡 Strong in **Java, DSA & Full Stack Development**
-- 🌱 Learning **Spring Boot, Cloud Computing & System Design**
-- 🤝 Open to **internships & entry-level opportunities**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Data%20Structures-blue?style=for-the-badge)
+### 👨‍💻 Programming
+- Java  
+- Data Structures & Algorithms  
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+- HTML5  
+- CSS3  
+- JavaScript  
+- ReactJS  
 
-### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+### ⚙️ Backend & Frameworks
+- Spring Boot  
+
+### 🗄️ Database
+- MySQL  
+
+### ☁️ Cloud & Tools
+- AWS  
+- Docker  
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 Education
+
+**B.Tech — Information Technology**  
+Sri Krishna College of Technology, Coimbatore  
+📊 CGPA: 8.29 / 10  
+📅 2023 — Expected 2027  
+
+**Higher Secondary School (HSC)**  
+Zamindar’s Higher Secondary School, Trichy  
+📊 Percentage: 92.33%  
+
+---
+
+## 🏆 Certifications
+
+- 🎖️ NPTEL — Effective Writing (Elite) (2023)  
+- 🎖️ Infosys Springboard — Java Programming (2024)  
+- 🎖️ NPTEL — Cloud Computing (Elite) (2025)  
+- 🎖️ Coursera — Artificial Intelligence (2025)  
+
+---
+
+## 💼 Projects
+
+### 🧑‍💼 Job Portal System
+
+🔹 Developed a full-stack platform connecting job seekers and employers  
+🔹 Implemented job posting, application tracking, and search features  
+🔹 Designed backend services and database for efficient recruitment  
+
+**Tech Stack:** ReactJS • Spring Boot • MySQL  
+
+---
 
 ### 🛒 Grocery Ordering System
-**React.js • Spring Boot • MySQL**  
-✔ Browse groceries by category  
-✔ Cart, secure checkout & order tracking  
-✔ Designed to save time and improve convenience  
+
+🔹 Built an online grocery shopping platform with home delivery support  
+🔹 Implemented cart management, product search, and checkout workflow  
+🔹 Designed responsive UI and backend services  
+
+**Tech Stack:** ReactJS • Spring Boot • MySQL  
 
 ---
 
-### 💼 Job Portal System
-**React.js • CSS • Spring Boot**  
-✔ Job posting & application system  
-✔ Connects recruiters and job seekers  
-✔ Streamlined hiring workflow  
+## 📫 Contact Me
+
+📞 Phone: +91 9087040406  
+📧 Email: kanishkakrishnan46@gmail.com  
 
 ---
 
-## 📜 Certifications
-🏅 Cisco CCNA – Introduction to Networks (2025)  
-🏅 Infosys Springboard – Java Programming (2024)  
-🏅 Coursera – Artificial Intelligence (2025)  
-🏅 NPTEL – Cloud Computing (ELITE) (2025)
+## ✨ Career Objective
+
+> Seeking Software Development / Full Stack opportunities where I can apply my skills in Java, DSA, and modern web technologies to build impactful and scalable solutions.
 
 ---
 
-## 🌈 Quote I Believe In
-> *“Learning never exhausts the mind — it empowers it.”*
-
----
-
-⭐ **Thanks for visiting!**  
-✨ *Let’s build impactful software together.*  
+<p align="center">
+  ⭐ Thanks for visiting my profile ⭐
+</p>
