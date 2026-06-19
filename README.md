@@ -37,7 +37,8 @@
 
 ### ☁️ Cloud & Tools
 - AWS  
-- Docker  
+- Docker
+- PowerBI 
 
 ---
 
@@ -45,7 +46,7 @@
 
 **B.Tech — Information Technology**  
 Sri Krishna College of Technology, Coimbatore  
-📊 CGPA: 8.29 / 10  
+📊 CGPA: 8.36 / 10  
 📅 2023 — Expected 2027  
 
 **Higher Secondary School (HSC)**  
